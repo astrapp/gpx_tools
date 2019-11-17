@@ -61,6 +61,7 @@ void WriteDefaultTypes(SettingsStruct **head)
 	WriteSetting(head, "Earthcache", "G");
 	WriteSetting(head, "Cache In Trash Out Event", "C");
 	WriteSetting(head, "Benchmark", "X");
+	WriteSetting(head, "Wherigo Cache", "Y");
 }
 
 
