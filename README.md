@@ -106,7 +106,7 @@ You can use "-" instead of gpx_in.gpx and gpx_out.gpx to use stdin of stdout ins
 
 * `-type ....`
     * Keeps only geocaches with the listed container types.
-    * Codes: X = Benchmark, C = Cache In Trash Out Event, G = Earthcache, E = Event Cache, B = Letterbox Hybrid, L = Locationless (Reverse) Cache, E = Mega-Event Cache, M = Multi-cache, A = Project APE Cache, T = Traditional Cache, U = Unknown Cache, V = Virtual Cache, W = Webcam Cache
+    * Codes: X = Benchmark, C = Cache In Trash Out Event, G = Earthcache, E = Event Cache, B = Letterbox Hybrid, L = Locationless (Reverse) Cache, E = Mega-Event Cache, M = Multi-cache, A = Project APE Cache, T = Traditional Cache, U = Unknown Cache, V = Virtual Cache, W = Webcam Cache, Y = Wherigo cache
     * Example to keep only traditionals, multi-caches, and webcams: `-size TMW`
 
 
